@@ -32,4 +32,4 @@ sudo timedatectl set-timezone Your_Time_Zone  # Replace Your_Time_Zone with your
 ```
 
 
->[click here to contact me](https://www.linkedin.com/in/mani-s-26032002mani)
+>[click here to contact me](https://www.linkedin.com/in/manis26/)
